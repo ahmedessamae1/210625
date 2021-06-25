@@ -1,0 +1,25 @@
+{
+  "mobile_phones": [
+    {
+      "title": "Samsung Galaxy A12 Black",
+      "price": "2,565.00 EGP",
+      "camera_resolution": "48 megapixels"
+    },
+    {
+      "title": "Realme",
+      "price": "2,763.00 EGP",
+      "camera_resolution": "48 megapixels"
+    }
+  ],
+  "laptops": [
+    {
+      "title": "HP",
+      "price": "22000 EGP"
+    },
+    {
+      "title": "DELL",
+      "price": "25000 EGP"
+    }
+  ]
+}
+

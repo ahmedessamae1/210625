@@ -1,0 +1,9 @@
+title: Samsung Galaxy A12 Black
+price: 2,565.00 EGP
+Camera Resolution: 48 megapixels
+
+----------------------------------
+
+title: Realme
+price: 2,763.00 EGP
+Camera Resolution: 48 megapixels
